@@ -4,7 +4,7 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
-class MemberRepositoryTest {    //Test는 public 없어도 됨(지웠다)
+class MemberRepositoryTest {    //Test는 public 없어도 됨 (내가 지움)
 
     MemberRepository memberRepository = MemberRepository.getInstance();
 
